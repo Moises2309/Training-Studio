@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Moises2309/Training-Studio/blob/main/assets/logo.png?raw=true)
+![Logo]()
 
 
 ## Training Studio
