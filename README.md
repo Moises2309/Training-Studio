@@ -1,19 +1,14 @@
-
-![Logo]()
-
+![Logo](https://github.com/Moises2309/Training-Studio/blob/main/assets/logo2.png?raw=true)
 
 ## Training Studio
 
 Uma landing page de uma academia fictícia. 🏋️‍♀️
-
 
 ## Stack utilizada
 
 - HTML
 - CSS
 - JavaScript
-
-
 
 ## Screenshots
 
@@ -28,7 +23,6 @@ Com este projeto aprendi a criar uma site para uma academia. Tive algumas dificu
 Estudei sobre responsividade para que o site se adequasse a qualquer dispositivo, celulares, tabletes e computadores. 📱💻
 
 Tive algumas complicações ao utilizar as Media queries, mas nada que uma longa prática não resolvesse. 🙌
-
 
 ## Autores
 
